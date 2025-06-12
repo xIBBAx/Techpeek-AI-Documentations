@@ -71,16 +71,15 @@
     <li>Submit a pull request with a concise description of the document's purpose.</li>
   </ul>
 
-  <h2>Related Repositories</h2>
+  <h2>External References</h2>
   <ul>
-    <li><a href="https://github.com/techpeek-ai/techpeek" target="_blank">TechPeek AI (Core Platform)</a></li>
-    <li><a href="https://github.com/techpeek-ai/cloud-infra" target="_blank">Cloud Infrastructure</a></li>
-    <li><a href="https://github.com/techpeek-ai/deepsearch_backend" target="_blank">Deep Search Backend</a></li>
+    <li><a href="https://deepwiki.com/xIBBAx/ONYX_Github_Clean" target="_blank">DeepWiki: ONYX Github (Clean View)</a></li>
+    <li><a href="https://deepwiki.com/xIBBAx/Danswer_Github_Full" target="_blank">DeepWiki: Danswer Github (Full View)</a></li>
   </ul>
 
   <h2>Contact</h2>
   <p>
-    For queries, support, or collaboration, please contact us at <a href="mailto:contact@techpeek.ai">contact@techpeek.ai</a>.
+    For queries, support, or collaboration, please contact us at <a href="mailto:ibrahimsultan4705@gmail.com">ibrahimsultan4705@gmail.com</a>.
   </p>
 
 </body>
