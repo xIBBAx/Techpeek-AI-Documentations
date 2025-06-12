@@ -1,1 +1,1 @@
-# Techpeek-AI---Documentations
+# Techpeek-AI-Documentations
